@@ -6,4 +6,4 @@ for example
 3) calculator >> https://github.com/Sagar8902/Python-mini-projects/blob/main/Calculator.py
 4) News app GUI >> https://github.com/Sagar8902/Python-mini-projects/blob/main/News%20App.py
 5) Image to sketch converter >> https://github.com/Sagar8902/Python-mini-projects/blob/main/image%20convertor.py
-6) 5) Image to sketch converter with GUI >> https://github.com/Sagar8902/Python-mini-projects/blob/main/Image%20Convertor%20-%20GUI.py
+6) Image to sketch converter with GUI >> https://github.com/Sagar8902/Python-mini-projects/blob/main/Image%20Convertor%20-%20GUI.py
